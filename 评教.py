@@ -4,8 +4,8 @@ import random
 from selenium.webdriver.common.keys import Keys
 
 
-usr_name = '042040415'
-password = 'Charlotte2001826'
+usr_name = 'account'
+password = 'password'
 
 # 优点
 youdian = ['老师平时上课的时候很认真，在课堂上讲解知识的时候很耐心，我们听不懂的时候会放慢节奏帮助我们一起弄清楚知识点',
